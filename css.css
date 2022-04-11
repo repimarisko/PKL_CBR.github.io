@@ -1,0 +1,329 @@
+/* Desktop - 1 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+
+background: #FFFFFF;
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* Lovepik_com-610897789-Delicious fruit mangosteen vector 1 */
+
+position: absolute;
+width: 800px;
+height: 800px;
+left: 710px;
+top: 72px;
+
+background: url(Lovepik_com-610897789-Delicious fruit mangosteen vector.png);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1440px;
+height: 865px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(178.99deg, rgba(130, 87, 164, 0.27) 1%, rgba(196, 196, 196, 0) 86.55%);
+
+
+/* Diagnosa */
+
+position: absolute;
+width: 54px;
+height: 15px;
+left: 812px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Riwayat */
+
+position: absolute;
+width: 46px;
+height: 15px;
+left: 915px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Tentang */
+
+position: absolute;
+width: 47px;
+height: 15px;
+left: 1110px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Petunjuk */
+
+position: absolute;
+width: 51px;
+height: 15px;
+left: 1010px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Contact */
+
+position: absolute;
+width: 46px;
+height: 15px;
+left: 1206px;
+top: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* BALITBU SUMBAR */
+
+position: absolute;
+width: 116px;
+height: 22px;
+left: 126px;
+top: 39px;
+
+font-family: 'Mina';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Halo, selamat datang */
+
+position: absolute;
+width: 245px;
+height: 29px;
+left: 126px;
+top: 337px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Diagnosa penyakit tanaman manggis */
+
+position: absolute;
+width: 584px;
+height: 39px;
+left: 126px;
+top: 383px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* menggunakan Sistem Pakar */
+
+position: absolute;
+width: 442px;
+height: 39px;
+left: 126px;
+top: 433px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Diagnosa Sekarang */
+
+position: absolute;
+width: 192px;
+height: 24px;
+left: 179px;
+top: 567px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 215px;
+height: 68px;
+left: 112px;
+top: 523px;
+
+background: #C4C4C4;
+border-radius: 12px;
+
+
+/* Sign Up */
+
+position: absolute;
+width: 95px;
+height: 30px;
+left: 172px;
+top: 542px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 212px;
+height: 68px;
+left: 396px;
+top: 523px;
+
+background: #4F3267;
+border-radius: 13px;
+
+
+/* Login */
+
+position: absolute;
+width: 68px;
+height: 30px;
+left: 468px;
+top: 543px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #FFFFFF;
+
+
+
+/* logo-balitbu 1 */
+
+position: absolute;
+width: 50px;
+height: 52px;
+left: 62px;
+top: 24px;
+
+background: url(logo-balitbu.png);
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 88px;
+height: 26px;
+left: 1288px;
+top: 35px;
+
+background: #4F3267;
+border-radius: 5px;
+
+
+/* admin */
+
+position: absolute;
+width: 44px;
+height: 18px;
+left: 1310px;
+top: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
